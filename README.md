@@ -67,7 +67,7 @@ In project these technologies have been used:
 
 The structure of the database can be seen below:
 
-![general_sheme.png](general_sheme.png)
+![image](https://user-images.githubusercontent.com/106582552/210845955-4bbfe202-96a7-4d42-aae8-bf1fd1c870e5.png)
 
 
 ## To start a project by your own you have to:
